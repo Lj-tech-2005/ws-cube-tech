@@ -1,0 +1,489 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+
+* {
+
+    font-family: "Inter", serif;
+}
+
+header {
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+
+
+.btnchat {
+    border: 1px solid rgba(39, 174, 96, 1);
+    padding: 10px 18px 10px 18px;
+    border-radius: 8px;
+    background-color: white;
+    color: rgba(39, 174, 96, 1);
+    font-size: 16px;
+    font-weight: 400;
+
+}
+
+
+.Call-btn {
+
+    background-image: linear-gradient(#0ACEFE, #2699FB);
+    border: none;
+    padding: 10px 18px 10px 18px;
+    border-radius: 8px;
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+
+.top-right {
+
+
+    background-color: #E9F5FF;
+    width: 522px;
+    border-radius: 50%;
+    padding: 50px;
+    height: 100%;
+
+
+}
+
+
+.top-right-main {
+
+
+    width: 100%;
+    background-color: white;
+    color: #0A2134;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 15px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+
+}
+
+
+
+
+.top-right :nth-child(1) label {
+
+    width: 100%;
+}
+
+
+.top-right :nth-child(1) input {
+
+
+    font-size: 14px;
+    font-weight: 500;
+    border: 1px solid #D0D5DD;
+    padding: 10px 14px 10px 14px;
+    border-radius: 8px;
+    color: #43505B;
+    outline: none;
+}
+
+.top-right :nth-child(1) button {
+
+    background-image: linear-gradient(#0ACEFE, #2699FB);
+    padding: 10px 18px 10px 18px;
+    border: none;
+    border-radius: 8px;
+    color: white;
+}
+
+
+
+
+
+.top-left h1 {
+
+    font-size: 52px;
+    font-weight: 700;
+}
+
+.top-left h1 span {
+
+    color: #2699FB;
+
+}
+
+
+
+
+.book-demo {
+    background-image: linear-gradient(#0ACEFE, #2699FB);
+    padding: 16px 48px 16px 48px;
+    border-radius: 8px;
+    color: white;
+    border: none;
+    font-weight: 20px;
+    font-weight: 700;
+}
+
+.Download-c {
+
+    border: 1px solid #D0D5DD;
+    padding: 15px 28px 15px 28px;
+    background-color: white;
+    border-radius: 8px;
+    color: #0A2134;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+
+.top-bottom-sec {
+
+    max-width: 1150px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    margin-top: 90px;
+
+}
+
+.top-bottom-sec h2 {
+
+    color: #2699FB;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.top-bottom-sec p {
+
+    color: #43505B;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+
+.second-sec {
+
+    background-color: #F7FAFF;
+
+}
+
+.second-sec h1 {
+
+    font-size: 36px;
+    font-weight: 700;
+    color: #0A2134;
+}
+
+.second-sec p {
+
+    font-size: 18px;
+    font-weight: 400;
+    color: #0A2134;
+}
+
+.second-sec-col {
+
+    background-color: white;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: 8px;
+    width: 360px;
+}
+
+
+.second-sec-col span {
+
+    background-color: #E9F8FF;
+    border-radius: 8px;
+}
+
+
+
+
+.second-sec-col-right h3 {
+
+    font-size: 20px;
+    font-weight: 600;
+    color: #0A2134;
+}
+
+.second-sec-col-right p {
+
+    font-size: 15px;
+    font-weight: 400;
+    color: #43505B;
+}
+
+.sec-3 h1 {
+
+    font-size: 44px;
+    font-weight: 700;
+    color: #0A2134;
+}
+
+.sec-3 p {
+
+    font-size: 18px;
+    font-weight: 400;
+    color: #0A2134;
+}
+
+.sec-3-col {
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: 4px;
+    width: 270px;
+    height: 278px;
+}
+
+.sec-3-col span {
+
+    box-shadow: 0px 0px 0px 4px #F2F4F7;
+    border-radius: 4px;
+
+}
+
+
+.sec-3-col h3 {
+    font-size: 18px;
+    font-weight: 600;
+    color: #0A2134;
+}
+
+.sec-3-col p {
+    font-size: 15px;
+    font-weight: 400;
+    color: #0A2134;
+}
+
+
+
+.sec-4 {
+
+    background-color: #F7FAFF;
+}
+
+
+
+.cricl {
+
+    background-color: #E9F5FF;
+    height: 228px;
+    width: 228px;
+    margin-top: 350px;
+    margin-left: 330px;
+    border-radius: 50%;
+
+}
+
+
+.certificate {
+
+    top: 65px;
+    left: 80px;
+    position: absolute;
+}
+
+
+.sec-4-right {
+
+    height: 900px;
+}
+
+
+.sec-4-left>h2 {
+
+    font-weight: 700;
+    font-size: 36px;
+    color: #0A2134;
+
+}
+
+.sec-4-left p {
+
+    font-weight: 400;
+    font-size: 18px;
+    color: #0A2134;
+
+}
+
+.sec-4-left-col {
+
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: 4px;
+
+
+
+}
+
+.sec-4-left-col span {
+
+    background-color: #E9F5FF;
+    border-radius: 4px;
+    width: 74px;
+    height: 74px;
+
+}
+
+.sec-4-left-col :nth-child(2) h2 {
+
+    font-size: 20px;
+    font-weight: 600;
+
+}
+
+.sec-4-left-col :nth-child(2) p {
+
+    font-size: 16px;
+    font-weight: 400;
+
+}
+
+
+
+.sec-5 h1 {
+
+    font-size: 44px;
+    font-weight: 700;
+    color: #0A2134;
+}
+
+.sec-5 p {
+
+    font-size: 18px;
+    font-weight: 400;
+    color: #0A2134;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* tabs css   */
+
+
+
+
+.menu-btn-box {
+
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    flex-wrap: wrap;
+
+}
+
+.bt-click {
+
+    font-size: 18px;
+    font-weight: 500;
+    padding: 8px 30px;
+    border-radius: 0px;
+    color: #43505B;
+    background-color: #fff;
+    cursor: pointer;
+
+
+}
+
+.tab-content-menu {
+
+    width: 99%;
+    position: relative;
+    height: auto;
+
+}
+
+.tab-content-menu p {
+
+    font-size: 22px;
+    font-weight: 400;
+    align-items: center;
+
+}
+
+
+
+
+
+.bt-click-color {
+
+    background-color: #F2F4F7;
+    color: #0A2134;
+
+}
+
+.content-box:nth-child(1) {
+
+    visibility: visible;
+    position: static;
+
+}
+
+
+.content-box {
+
+    margin: auto;
+    position: absolute;
+    visibility: hidden;
+    z-index: 0;
+    top: 0px;
+    background-color: white;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: 8px;
+    border: 1px solid #F2F4F7;
+
+
+}
+
+
+
+.tab-show {
+
+    visibility: visible;
+    z-index: 2;
+
+}
+
+
+.download-btn{
+
+    margin-top:150px;
+
+}
+
+
+
+.sec-6 {
+
+    background-color: #F7FAFF;
+}
+
+
+.sec-6-col {
+
+    background-color: white;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border: 1px solid #F2F4F7;
+    border-radius: 8px;
+    width:370px;
+
+
+}
+
+.sec-6-col h2 {
+
+    font-size: 20px;
+    font-weight: 600;
+    color: #0A2134;
+
+
+}
+
+.sec-6-col p {
+
+    font-size: 16px;
+    font-weight: 400;
+    color: #0A2134;
+}
