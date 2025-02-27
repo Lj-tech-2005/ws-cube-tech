@@ -12,14 +12,10 @@
 
 @media only screen and (max-width: 576px) {
 
-    .top-left h1 span span {
 
-        font-size: 20px;
-
-    }
 
     .top-left h1 {
-        font-size: 20px;
+        font-size: 29px;
 
     }
 
@@ -81,7 +77,6 @@
     .certificate {
         height: 436px;
         width: 306px;
-        margin-left: 18px;
 
     }
 
@@ -110,16 +105,20 @@
     }
 
 
-   
-.tab-content-menu p {
 
-    font-size: 12px;
-    font-weight: 400;
-    align-items: center;
+    .tab-content-menu p {
 
-}
+        font-size: 12px;
+        font-weight: 400;
+        align-items: center;
 
+    }
 
+    .last-sec h1 {
+
+        font-size: 20px;
+        font-weight: 700;
+    }
 
 }
 
@@ -130,7 +129,6 @@
     .sec-4-right {
 
         justify-content: center;
-        /* position: static; */
         display: flex;
 
     }
@@ -155,13 +153,31 @@
 
     }
 
-    /* .second-sec-col {
+    .book-demo-white {
+        padding: 10px 28px 10px 28px;
+        font-size: 10px;
 
-        background-color: white;
-        box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
-        border-radius: 8px;
-        width: 360px;
-        
-    } */
+    }
+
+    .blue-box img {
+
+        width: 20%;
+
+    }
+
+    .blue-box-text h1 {
+
+        font-weight: 700;
+        font-size: 20px;
+
+    }
+
+    .blue-box-text p {
+
+        font-weight: 500;
+        font-size: 10px;
+    }
+
+
 
 }
